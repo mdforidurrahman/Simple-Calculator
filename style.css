@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+    color:brown;
+    font-size: 80px;
+    padding: 20px;
+}
+
+#cal{
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid rebeccapurple;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 30px;
+    background: #ddd;
+    border-radius: 15px;
+}
+
+input, label, option, select, button{
+    font-size: 20px;
+    padding: 10px;
+}
+
+#num1,#num2,#operation{
+    font-size: 20px;
+}
+
+.mt-3{
+    color:brown;
+    font-size: 40px;
+}
+
